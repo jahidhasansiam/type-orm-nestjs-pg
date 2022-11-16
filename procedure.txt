@@ -1,0 +1,6 @@
+1. Create a nestJs project.
+2. Install TypeOrm
+3. Create entities ( Structure of Table )
+4. Create dto ( Inputs for post or patch request )
+5. Inject the repository to the service.
+6. Import the repository to the module file ( in imports )
